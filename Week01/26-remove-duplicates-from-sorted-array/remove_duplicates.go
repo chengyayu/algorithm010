@@ -1,5 +1,6 @@
 package test26
 
+//https://leetcode-cn.com/problems/remove-duplicates-from-sorted-array/
 func removeDuplicates(nums []int) int {
 	if l := len(nums); l <= 1 {
 		return l
